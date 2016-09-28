@@ -1,6 +1,6 @@
 <?php
 
-echo "HOLA DAW";
+echo "HOLA DAW version2";
 
 
 
